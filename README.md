@@ -7,7 +7,7 @@ OBS.: Esse código foi desenvolvido em um ambiente linux. Por tanto, para rodar 
 ## Vídeo Demonstrativo
 Assista ao vídeo demonstrativo do Maria Terminal no YouTube:
 
-[Assista ao vídeo no YouTube](https://youtu.be/o4usu_Vt1Jk)
+[Assista ao vídeo no YouTube](https://youtu.be/cOn3-etoXxk)
 
 ## Instalação
 
