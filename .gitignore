@@ -1,0 +1,6 @@
+source/gptkey.py
+.idea
+__pycache__
+source/__pycache__
+input.wav
+output.mp3
